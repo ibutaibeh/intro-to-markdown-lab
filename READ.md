@@ -1,6 +1,6 @@
 # Writing a Function in JavaScript
 
-![programming banner ](./istockphoto-1485939448-612x612.jpg)
+![programming banner ](./pc.jpg)
 
 In JavaScript, functions are blocks of reusable code. They allow you to bundle functionality, make it more readable, and avoid repetition. Here's a brief tutorial on writing an arrow function in JavaScript.
 
